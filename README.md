@@ -23,3 +23,10 @@ Employed advanced machine learning models for housing price predictions.
 
 ## Impact:
 The Housing Price Prediction Accuracy Improvement project has a significant impact on the real estate sector and the clients who rely on accurate housing price predictions. By optimizing the accuracy of these predictions, the project facilitates better decision-making for homeowners, investors, and real estate professionals. It also sets a benchmark for data-driven approaches in the field of housing market analysis.
+
+
+## Refrence Book: 
+
+----->  https://drive.google.com/file/d/12qvNbJAAafbhjzvBqCK_Wnl1oYhMUruC/view?usp=sharing
+
+You can download the book for the description and steps performed in this project!
