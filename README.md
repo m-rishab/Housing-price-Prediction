@@ -12,6 +12,9 @@ Experiment with different regression models, including Random Forest and Linear 
 Employ cross-validation techniques to assess model performance and ensure robust and reliable predictions.
 Explore outlier handling methods to mitigate the influence of extreme values on forecasts.
 
+## Piepline
+![house-price-prediction-6-2048](https://github.com/m-rishab/Housing-price-Prediction/assets/113618652/c14fce1e-2c44-4847-9ac6-df29a208866a)
+
 ## Key Achievements:
 
 Enhanced accuracy and reliability in predicting housing prices.
